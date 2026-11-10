@@ -86,19 +86,3 @@ Gereksinimler:
 
 Ayrıntılar ve şekiller için ara rapora bakınız.
 
-## Final aşaması planı
-
-Sızıntısız boru hattı (imputasyon, düşük varyans filtresi, z-skor, öznitelik seçimi ve sınıflandırıcı yalnızca eğitim katı içinde), üç yöntem (L1/Elastic Net lojistik regresyon, RBF çekirdekli SVM, rastgele orman; karar ağacı taban çizgisi) ve rehberin iki doğrulama protokolü (38/34 sabit bölme ve Golub'un 72 örneğinde tabakalı 5×5 tekrarlı iç içe çapraz doğrulama). Platform düzeltmesi (ComBat) gerekirse yalnızca eğitim katında kestirilecektir.
-
-## Kaynaklar
-
-- T. R. Golub vd., "Molecular classification of cancer," *Science*, 286(5439):531–537, 1999.
-- S. A. Armstrong vd., "MLL translocations specify a distinct gene expression profile that distinguishes a unique leukemia," *Nat. Genet.*, 30(1):41–47, 2002.
-- J. Bond vd., "A transcriptomic continuum of differentiation arrest identifies myeloid interface acute leukemias with poor prognosis," bioRxiv, 2019, doi:10.1101/2019.12.10.870121 (GSE131184).
-- W. E. Johnson, C. Li ve A. Rabinovic, "Adjusting batch effects in microarray expression data using empirical Bayes methods," *Biostatistics*, 8(1):118–127, 2007 (ComBat).
-
-Tam kaynakça ara raporda yer almaktadır.
-
-## GenAI kullanım beyanı
-
-Bu projede kod geliştirme, metin ve kaynakça düzenleme ile dil denetimi için Anthropic'in Claude modelinden yardımcı araç olarak yararlanılmıştır. Üretilen içerik yazar tarafından gözden geçirilmiş, kodlar çalıştırılmış ve sayılar çıktılarla karşılaştırılmıştır. Ayrıntılı beyan belgesi ara rapor teslim paketindedir.
