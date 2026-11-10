@@ -6,10 +6,6 @@ Makine öğrenmesi modelleri final aşamasında eklenecektir.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iberil/leukemia-gene-expression-analysis/blob/main/Golub_ALL_AML_EDA_and_Preprocessing.ipynb)
 
-- **Öğrenci:** İrem Beril Nacak (503020260075), Eskişehir Osmangazi Üniversitesi, Bilgisayar Mühendisliği
-- **Ara rapor:** `503020260075_Ara_Rapor.pdf` (IEEE konferans şablonu)
-- **Tanıtım videosu:** _(bağlantı eklenecek)_
-
 ## Proje kapsamı
 
 Veriler p ≫ n yapısındadır (ör. Golub: 72 örnek, 7.129 prob). Çalışma üç soruyu hedefler:
